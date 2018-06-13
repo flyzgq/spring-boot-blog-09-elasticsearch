@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/UserSpaceController.java" line="237" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/resources/static/js/userspace/blog.js" line="88" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/resources/templates/userspace/u.html" line="112" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/fly/springboot/service/impl/EsBlogServiceImpl.java" line="154" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="735acf11-6ed5-492b-a7fb-379109e1db9a" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+      <find>flipFlop</find>
+      <find>catelog</find>
+      <find>catalogRepleace</find>
+      <find>blog-query-by-catalog</find>
+      <find>keyword</find>
+      <find>searchBlogs</find>
+      <find>catalogId</find>
+      <find>toastr.options</find>
+      <find>toast-top-right</find>
+      <find>toastr</find>
+      <find>Cropper</find>
+      <find>form.min.js</find>
+      <find>tags</find>
+      <find>add a t</find>
+      <find>submitBlog</find>
+      <find>tagsInput</find>
+      <find>form-control-tag</find>
+      <find>bloged</find>
+      <find>badge</find>
+      <find>bootstrap.min.css</find>
+      <find>elast</find>
+      <find>comment</find>
+      <find>badge-warning</find>
+      <find>badge-info</find>
+      <find>badge-danger</find>
+      <find>indexsearch</find>
+      <find>indexkeyword</find>
+      <find>mainContainer</find>
+      <find>jna</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\IdeaProjects\springBootDemo\springbootApplication\spring-boot-blog-01-user\src\main\java\com\fly\springboot\config</dir>
+    </dirStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/project/x1hn1k/blog-user" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/SpringBootBlog07CatalogApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/entity/Comment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/entity/Vote.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/entity/Catalog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/entity/Blog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/model/Menu.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/model/CatalogVo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/repository/CatalogRespository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/repository/BlogRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/interfaces/CatalogService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/interfaces/BlogService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/model/ResponeVo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/model/ResponseVo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/CatalogController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/userspace/catalogedit.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/userspace/blogedit.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/userspace/u.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/userspace/u.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/SpringBootBlog08TagsApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/UserSpaceController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/footer.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/userspace/blogedit.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/blogedit.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/userspace/blog.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/SpringBootBlog09ElasticSearchApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/interfaces/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/model/TagVo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/repository/EsBlogRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/interfaces/EsBlogService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/BlogController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/index.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/js/userspace/blog.js" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/config/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/impl/EsBlogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/utils/ConstraintViolationExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/impl/AuthorityServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/impl/BlogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/impl/CatalogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/impl/CommentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/service/impl/VoteServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/fly/springboot/entity/EsBlog.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-blog-09-elasticsearch" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-blog-09-elasticsearch" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-blog-09-elasticsearch" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="14" />
+    <option name="y" value="3" />
+    <option name="width" value="1370" />
+    <option name="height" value="693" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-boot-blog-09-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-blog-09-elasticsearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-blog-09-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-blog-09-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-blog-09-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-blog-09-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-blog-09-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-blog-09-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-blog-09-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-blog-09-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-blog-09-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-blog-09-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-blog-09-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-blog-09-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-blog-09-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-boot-blog-09-elasticsearch" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-blog-09-elasticsearch" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-blog-search" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\springBootDemo\springbootApplication\spring-boot-blog-05-comment\src\main\resources\templates\fragments" />
+      <recent name="D:\IdeaProjects\springBootDemo\springbootApplication\spring-boot-blog-05-comment\src\main\resources\templates\users" />
+      <recent name="D:\IdeaProjects\springBootDemo\springbootApplication\spring-boot-blog-01-user\src\main\resources\templates\userspace" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.fly.springboot.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\springBootDemo\springbootApplication\spring-boot-blog-09-elasticsearch\src\main\resources\static\js" />
+      <recent name="D:\IdeaProjects\springBootDemo\springbootApplication\spring-boot-blog-08-tags\src\main\resources\static\js" />
+      <recent name="D:\IdeaProjects\springBootDemo\springbootApplication\spring-boot-blog-07-catalog\src\main\resources\static\js" />
+      <recent name="D:\IdeaProjects\springBootDemo\springbootApplication\spring-boot-blog-07-catalog\src\main\resources\static\css" />
+      <recent name="D:\IdeaProjects\springBootDemo\springbootApplication\spring-boot-blog-07-catalog\src\main\resources\templates\userspace" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+    </configuration>
+    <configuration name="SpringBootBlog09ElasticSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-boot-blog-09-elasticsearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fly.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fly.springboot.SpringBootBlog09ElasticSearchApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="735acf11-6ed5-492b-a7fb-379109e1db9a" name="Default" comment="" />
+      <created>1526307115864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526307115864</updated>
+      <workItem from="1526307120521" duration="4980000" />
+      <workItem from="1526388437783" duration="8656000" />
+      <workItem from="1526478033371" duration="180000" />
+      <workItem from="1526478339337" duration="8829000" />
+      <workItem from="1526489461762" duration="1608000" />
+      <workItem from="1526613391664" duration="1780000" />
+      <workItem from="1526615965846" duration="187000" />
+      <workItem from="1526627003450" duration="16269000" />
+      <workItem from="1526701092807" duration="6057000" />
+      <workItem from="1526708747204" duration="8483000" />
+      <workItem from="1526743321809" duration="1028000" />
+      <workItem from="1526786423605" duration="30599000" />
+      <workItem from="1526829545053" duration="5175000" />
+      <workItem from="1526905735820" duration="10367000" />
+      <workItem from="1527079456325" duration="7291000" />
+      <workItem from="1527169558366" duration="47000" />
+      <workItem from="1527169867126" duration="9714000" />
+      <workItem from="1527332357930" duration="10550000" />
+      <workItem from="1527393368200" duration="19679000" />
+      <workItem from="1527419968509" duration="12294000" />
+      <workItem from="1527436037423" duration="5413000" />
+      <workItem from="1527511521410" duration="14667000" />
+      <workItem from="1527603225478" duration="4856000" />
+      <workItem from="1527609010312" duration="5730000" />
+      <workItem from="1527690221699" duration="2398000" />
+      <workItem from="1527912315589" duration="15750000" />
+      <workItem from="1528001688050" duration="25916000" />
+      <workItem from="1528123067338" duration="2089000" />
+      <workItem from="1528125340190" duration="2607000" />
+      <workItem from="1528608185312" duration="626000" />
+      <workItem from="1528638280942" duration="592000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="244417000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Designer" order="1" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.670068" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49924356" weight="0.071428575" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="10" weight="0.32993197" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32993197" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50075644" side_tool="true" weight="0.24319728" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32993197" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.25189108" />
+      <window_info anchor="bottom" id="Problems" order="16" weight="0.32993197" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.21633889" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
+      <window_info id="Structure" order="7" sideWeight="0.5025381" side_tool="true" weight="0.24886535" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="10" weight="0.32993197" />
+      <window_info id="Designer" order="1" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32993197" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.50075644" side_tool="true" weight="0.24319728" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32993197" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32993197" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="bottom" id="Problems" order="16" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.21633889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49746192" visible="true" weight="0.24886535" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="7" sideWeight="0.5025381" weight="0.24886535" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32980332" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49924356" weight="0.071428575" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/BlogController.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/CommentController.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fly/springboot/controller/CommentController.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="89" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>
